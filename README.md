@@ -10,7 +10,7 @@
   - Package management (apt, yum)
   - Process and service management (ps, kill)
 - Programming language for scripting
-- Git - basiscs, cherry pick, rebase
+- Git - basics, cherry pick, rebase
 - Networking and security - to maintain trafic flow and managing proper user access
 - Cloud platform - AWS, Azure, GCP
 - IAAC - infra as a code - AWS CDK, terraform, ansible
